@@ -15,6 +15,6 @@ Length Of Original List Is: 10
 Atrer Remove Duplicate Number In The List: {65, 66, 99, 10, 11, 55, 87}
 Length Of Atrer Remove Duplicate Number List Is: 7
 Length of Duplicate Number In The List: 3
-Minimam Number in The List: 10
-Maximam Number in The List: 99
+Minimam Number In The List: 10
+Maximam Number In The List: 99
 ```
